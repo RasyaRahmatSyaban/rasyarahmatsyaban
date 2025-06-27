@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Rasya Rahmat Syaban</h1>
-<p align="center">🚀 Backend & Full Stack Developer | Node.js | Go | Laravel | AdonisJS</p>
+<p align="center">🚀 Full Stack Developer</p>
 
 ---
 
